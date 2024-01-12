@@ -47,5 +47,8 @@ body {
 .contato{
     display: flex;
     flex-flow: column;
-    width: 500px;
+}
+
+.espaco {
+    gap: 50px;
 }
