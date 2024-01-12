@@ -52,3 +52,8 @@ body {
 .espaco {
     gap: 50px;
 }
+
+.btn{
+    width: 80px;
+    border-radius: 6px;
+}
